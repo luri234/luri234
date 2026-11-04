@@ -1,16 +1,33 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**luri234/luri234** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# ¡Hola! 👋 Soy Mayra
 
-Here are some ideas to get you started:
+### Computer Science Student | ESPOL
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Software Development • Data Science • Technology
+
+[LinkedIn](TU_LINKEDIN) · [Email](mailto:TU_CORREO)
+
+</div>
+
+---
+
+## 👩‍💻 Sobre mí
+
+¡Hola! Soy Mayra 👋
+
+Soy estudiante de **Ingeniería en Ciencias de la Computación
+en ESPOL**, desde 2024. Durante mi formación he desarrollado
+proyectos relacionados con el desarrollo de software y también
+he explorado otras áreas como la estadística y el análisis de
+datos, que son de mi interés y en las que he adquirido algo
+de experiencia.
+
+Disfruto aprender a través de la práctica, experimentar con
+nuevas tecnologías y aplicar mis conocimientos en proyectos
+que me permitan seguir desarrollando mis habilidades.
+
+Fuera del mundo tecnológico, disfruto del clima frío, un buen
+postre, las historias de thriller y los cómics. ❄️🍰📚
+
+---s
