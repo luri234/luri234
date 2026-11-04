@@ -16,8 +16,8 @@ Software Development • Data Science • Technology
 
 ¡Hola! Soy Mayra 👋
 
-Soy estudiante de **Ingeniería en Ciencias de la Computación
-en ESPOL**, desde 2024. Durante mi formación he desarrollado
+Soy estudiante de Ingeniería en Ciencias de la Computación
+en ESPOL, desde 2024. Durante mi formación he desarrollado
 proyectos relacionados con el desarrollo de software y también
 he explorado otras áreas como la estadística y el análisis de
 datos, que son de mi interés y en las que he adquirido algo
@@ -27,7 +27,7 @@ Disfruto aprender a través de la práctica, experimentar con
 nuevas tecnologías y aplicar mis conocimientos en proyectos
 que me permitan seguir desarrollando mis habilidades.
 
-Fuera del mundo tecnológico, disfruto del clima frío, un buen
-postre, las historias de thriller y los cómics. ❄️🍰📚
+Fuera del mundo tecnológico, disfruto del clima frío, un buen libro y un
+postre 🍰📚
 
 ---s
