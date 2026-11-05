@@ -64,3 +64,31 @@ Fuera de la tecnología, me encontrarás disfrutando de un buen libro, el clima 
 **Certificaciones**
 
 - Microsoft Certified: Power BI Data Analyst Associate (PL-300)
+
+## 🚀 Proyectos destacados
+
+### 🌐 Museo Presley Norton
+Sitio web para promover las actividades culturales del museo y facilitar la consulta de su agenda y experiencias.
+
+**Tecnologías:** HTML · CSS · JavaScript
+
+[Ver repositorio](LINK_REPOSITORIO) | [Ver sitio web](LINK_DEMO)
+
+---
+
+### 📊 Dashboard de datos
+Aplicación web que presenta información mediante dashboards y consume datos de una API externa.
+
+**Tecnologías:** React · TypeScript · Vite
+
+[Ver repositorio](LINK_REPOSITORIO)
+
+---
+
+## 🌱 Experiencia 
+
+**Experiencia**
+
+- **Pasante en Produbanco** — Transformación Digital. Participación en actividades relacionadas con gobierno y calidad de datos.
+- **Mentora Académica** — Data Foundations Program (Coding Bootcamps ESPOL + MINTEL). Acompañamiento a estudiantes en temas de Python, Excel, SQL y visualización de datos.
+
