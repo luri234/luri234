@@ -16,18 +16,15 @@ Software Development • Data Science • Technology
 
 ¡Hola! Soy Mayra 👋
 
-Soy estudiante de Ingeniería en Ciencias de la Computación
-en ESPOL, desde 2024. Durante mi formación he desarrollado
-proyectos relacionados con el desarrollo de software y también
-he explorado otras áreas como la estadística y el análisis de
-datos, que son de mi interés y en las que he adquirido algo
-de experiencia.
+Estudiante de **Ingeniería en Ciencias de la Computación en ESPOL** desde 2024 y actualmente pasante en Produbanco.
 
-Disfruto aprender a través de la práctica, experimentar con
-nuevas tecnologías y aplicar mis conocimientos en proyectos
-que me permitan seguir desarrollando mis habilidades.
+Me interesan el desarrollo de software, la estadística y el análisis de datos. Disfruto aprender a través de la práctica, explorar nuevas tecnologías y convertir ideas en proyectos.
 
-Fuera del mundo tecnológico, disfruto del clima frío, un buen libro y un
-postre 🍰📚
+Fuera de la tecnología, me encontrarás disfrutando de un buen libro, el clima frío y algún postre. ❄️📚🍰
 
----s
+## 💡 Áreas de interés
+
+- **Software Development:** Creación de aplicaciones funcionales para la resolución de problemas reales.
+- **Data & Analytics (DS / BI):** Descubrimiento de patrones y visualización de información estratégica mediante dashboards.
+- **Data Governance & Quality:** Implementación de estándares, reglas y buenas prácticas para la calidad del dato.
+- **Artificial Intelligence:** Exploración y aplicación de modelos tecnológicos emergentes.
