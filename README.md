@@ -1,20 +1,15 @@
 <div align="center">
 
-# ¡Hola! 👋 Soy Mayra
+# 👋 ¡Hola, soy Mayra!
+**Computer Science Student @ ESPOL**  
+`Software Development` • `Data Science` • `Data Governance`
 
-### Computer Science Student | ESPOL
-
-Software Development • Data Science • Technology
-
-[LinkedIn](TU_LINKEDIN) · [Email](mailto:TU_CORREO)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/TU_USUARIO)
+[![Gmail](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:TU_EMAIL)
 
 </div>
 
----
-
 ## 👩‍💻 Sobre mí
-
-¡Hola! Soy Mayra 👋
 
 Estudiante de **Ingeniería en Ciencias de la Computación en ESPOL** desde 2024 y actualmente pasante en Produbanco.
 
@@ -75,15 +70,10 @@ Fuera de la tecnología, me encontrarás disfrutando de un buen libro, el clima 
 
 
 ## 🌱 Experiencia y comunidad
-
-**Experiencia**
 - 🏦 **Pasante en Produbanco (Transformación Digital):** Gobierno y calidad de datos.
 - 🎓 **Mentora Académica (Coding Bootcamps ESPOL + MINTEL):** Acompañamiento en Python, SQL, Excel y visualización de datos.
-
-**Comunidad & Eventos**
 - 🤝 **Club TAWS:** Miembro activo.
-- 📊 **WiDS (Women in Data Science):** Staff (Conference '25/'26, NextGen '25/'26)) · Participante (Datathon '25).
-- 🚀 **Hackathons & Datathons:** SpaceHack '26 (Participante) · Datathon ESPOL + Banco Guayaquil '24 (Staff).
+
 
 ## 📫 Contacto
 
