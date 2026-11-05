@@ -67,28 +67,27 @@ Fuera de la tecnología, me encontrarás disfrutando de un buen libro, el clima 
 
 ## 🚀 Proyectos destacados
 
-### 🌐 Museo Presley Norton
-Sitio web para promover las actividades culturales del museo y facilitar la consulta de su agenda y experiencias.
+| Proyecto | Descripción | Tech | Links |
+| :--- | :--- | :--- | :--- |
+| **Museo Presley Norton** | Promoción cultural, agenda y experiencias interactivas. | `HTML` `CSS` `JS` | [Repo](LINK_REPOSITORIO) · [Demo](LINK_DEMO) |
+| **Dashboard de datos** | Visualización de información en tiempo real consumida de una API. | `React` `TS` `Vite` | [Repo](LINK_REPOSITORIO) |
+| **WikiTracker** | Extensión de Chrome para el seguimiento de páginas en Wikipedia. | `JS` `HTML` `CSS` | [Repo](LINK_REPOSITORIO) |
 
-**Tecnologías:** HTML · CSS · JavaScript
 
-[Ver repositorio](LINK_REPOSITORIO) | [Ver sitio web](LINK_DEMO)
-
----
-
-### 📊 Dashboard de datos
-Aplicación web que presenta información mediante dashboards y consume datos de una API externa.
-
-**Tecnologías:** React · TypeScript · Vite
-
-[Ver repositorio](LINK_REPOSITORIO)
-
----
-
-## 🌱 Experiencia 
+## 🌱 Experiencia y comunidad
 
 **Experiencia**
+- 🏦 **Pasante en Produbanco (Transformación Digital):** Gobierno y calidad de datos.
+- 🎓 **Mentora Académica (Coding Bootcamps ESPOL + MINTEL):** Acompañamiento en Python, SQL, Excel y visualización de datos.
 
-- **Pasante en Produbanco** — Transformación Digital. Participación en actividades relacionadas con gobierno y calidad de datos.
-- **Mentora Académica** — Data Foundations Program (Coding Bootcamps ESPOL + MINTEL). Acompañamiento a estudiantes en temas de Python, Excel, SQL y visualización de datos.
+**Comunidad & Eventos**
+- 🤝 **Club TAWS:** Miembro activo.
+- 📊 **WiDS (Women in Data Science):** Staff (Conference '25/'26, NextGen '25/'26)) · Participante (Datathon '25).
+- 🚀 **Hackathons & Datathons:** SpaceHack '26 (Participante) · Datathon ESPOL + Banco Guayaquil '24 (Staff).
 
+## 📫 Contacto
+
+¡Me encantaría conectar y compartir ideas sobre tecnología, desarrollo de software y datos!
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](TU_LINKEDIN)
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:TU_CORREO)
