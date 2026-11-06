@@ -86,3 +86,6 @@ Aplicación móvil inspirada en Yu-Gi-Oh!, desarrollada aplicando conceptos de p
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](TU_LINKEDIN)
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:TU_CORREO)
 [![CV](https://img.shields.io/badge/Ver_CV-2E7D32?style=flat-square&logo=googledocs&logoColor=white)](LINK_A_TU_CV)
+## 📊 GitHub Activity
+
+![Profile Details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=luri234&theme=tokyonight)
