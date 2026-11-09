@@ -16,18 +16,46 @@ Estudiante de **Ingeniería en Ciencias de la Computación en ESPOL** y actualme
 Me interesan el desarrollo de software, la ciencia de datos, la inteligencia artificial y el gobierno de datos. Disfruto aprender a través de la práctica, explorar nuevas tecnologías y convertir ideas en proyectos.
 
 Fuera de la tecnología, me encontrarás disfrutando de un buen libro, el clima frío y algún postre. 📚🍰
-## Proyectos destacados
-
-- <a href="https://github.com/luri234/MuseoPresleyNorton" style="color: #6FA8C9;">🏛️ Museo Presley Norton</a> — Sitio web para difundir el patrimonio y las actividades culturales del museo.  
-  `HTML5` `CSS3` `JavaScript` · [Demo](https://luri234.github.io/MuseoPresleyNorton/#museo)
-
-- <a href="https://github.com/Sam-ai06/Grafos-Arboles-Aeropuerto" style="color: #6FA8C9;">✈️ Grafos y Árboles — Aeropuertos</a> — Proyecto académico de estructuras de datos para representar información aeroportuaria mediante grafos y árboles.  
-  `Java` `POO` `Grafos` `Árboles`
-
-- <a href="https://github.com/luri234/YuGiOh_Android_Studio" style="color: #6FA8C9;">🃏 Yu-Gi-Oh! — Android</a> — Aplicación móvil inspirada en Yu-Gi-Oh!, desarrollada aplicando conceptos de programación orientada a objetos.  
-  `Java` `Android Studio` `POO`
 
 
+## 🚀 Proyectos destacados
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🏛️ Museo Presley Norton
+Sitio web para difundir el patrimonio y las actividades culturales del museo.
+
+[![Demo](https://img.shields.io/badge/-Demo-1F2937?style=flat-square&logo=githubpages&logoColor=white)](https://luri234.github.io/MuseoPresleyNorton/#museo) [![Repo](https://img.shields.io/badge/-Repo-1F2937?style=flat-square&logo=github&logoColor=white)](https://github.com/luri234/MuseoPresleyNorton)
+
+</td>
+<td width="50%" valign="top">
+
+### ✈️ Grafos y Árboles
+Proyecto académico de estructuras de datos para representar información aeroportuaria con grafos y árboles.
+
+[![Repo](https://img.shields.io/badge/-Repo-1F2937?style=flat-square&logo=github&logoColor=white)](https://github.com/Sam-ai06/Grafos-Arboles-Aeropuerto)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🃏 Yu-Gi-Oh! Android
+Aplicación móvil inspirada en Yu-Gi-Oh!, desarrollada aplicando programación orientada a objetos.
+
+[![Repo](https://img.shields.io/badge/-Repo-1F2937?style=flat-square&logo=github&logoColor=white)](https://github.com/luri234/YuGiOh_Android_Studio)
+
+</td>
+<td width="50%" valign="top">
+
+### ✨ Próximamente
+Nuevos proyectos en camino.
+
+</td>
+</tr>
+</table>
 ## Tech Stack & Tools
 
 **Programming Languages**  
@@ -63,7 +91,7 @@ Fuera de la tecnología, me encontrarás disfrutando de un buen libro, el clima 
 - **Mentora Académica — Coding Bootcamps ESPOL + MINTEL:** Acompañamiento a estudiantes del programa Data Foundations en Python, SQL, Excel y visualización de datos.
 - **Club TAWS:** Miembro activo.
 
-## 🏅 Certificaciones
+## Certificaciones
 
 - **Microsoft Certified: Power BI Data Analyst Associate (PL-300)** — 2026.
 
