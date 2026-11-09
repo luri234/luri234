@@ -24,25 +24,29 @@ Fuera de la tecnología, me encontrarás disfrutando de un buen libro, el clima 
 <tr>
 <td width="50%" valign="top">
 <h3>🏛️ Museo Presley Norton</h3>
-<p>Sitio web para difundir el patrimonio y las actividades culturales del museo.</p>
+<p>Sitio web para difundir el patrimonio y las actividades culturales del museo.<br>
+<sub>HTML · CSS · JavaScript</sub></p>
 <a href="https://luri234.github.io/MuseoPresleyNorton/#museo"><img src="https://img.shields.io/badge/-Demo-1F2937?style=flat-square&logo=githubpages&logoColor=white" alt="Demo"></a>
 <a href="https://github.com/luri234/MuseoPresleyNorton"><img src="https://img.shields.io/badge/-Repo-1F2937?style=flat-square&logo=github&logoColor=white" alt="Repo"></a>
 </td>
 <td width="50%" valign="top">
 <h3>🔐 RSA SecureTxt</h3>
-<p>Plataforma para el cifrado de archivos .txt con RSA.</p>
+<p>Plataforma para el cifrado de archivos .txt con RSA.<br>
+<sub>Java · Spring Boot · MySQL</sub></p>
 <a href="https://github.com/alan-am/rsa-SecureTxt"><img src="https://img.shields.io/badge/-Repo-1F2937?style=flat-square&logo=github&logoColor=white" alt="Repo"></a>
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 <h3>🃏 Yu-Gi-Oh! Android</h3>
-<p>Aplicación móvil inspirada en Yu-Gi-Oh!, desarrollada aplicando programación orientada a objetos.</p>
+<p>Aplicación móvil inspirada en Yu-Gi-Oh!, desarrollada aplicando programación orientada a objetos.<br>
+<sub>Java · Android Studio</sub></p>
 <a href="https://github.com/luri234/YuGiOh_Android_Studio"><img src="https://img.shields.io/badge/-Repo-1F2937?style=flat-square&logo=github&logoColor=white" alt="Repo"></a>
 </td>
 <td width="50%" valign="top">
 <h3>✈️ Grafos y Árboles</h3>
-<p>Proyecto académico de estructuras de datos para representar información aeroportuaria con grafos y árboles.</p>
+<p>Proyecto académico de estructuras de datos para representar información aeroportuaria con grafos y árboles.<br>
+<sub>Java</sub></p>
 <a href="https://github.com/Sam-ai06/Grafos-Arboles-Aeropuerto"><img src="https://img.shields.io/badge/-Repo-1F2937?style=flat-square&logo=github&logoColor=white" alt="Repo"></a>
 </td>
 </tr>
