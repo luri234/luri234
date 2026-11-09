@@ -9,7 +9,7 @@
 
 </div>
 
-## Sobre mí
+## 👩‍💻 Sobre mí
 
 Estudiante de **Ingeniería en Ciencias de la Computación en ESPOL** y actualmente pasante en Produbanco.
 
@@ -32,10 +32,10 @@ Sitio web para difundir el patrimonio y las actividades culturales del museo.
 </td>
 <td width="50%" valign="top">
 
-### ✈️ Grafos y Árboles
-Proyecto académico de estructuras de datos para representar información aeroportuaria con grafos y árboles.
-
-[![Repo](https://img.shields.io/badge/-Repo-1F2937?style=flat-square&logo=github&logoColor=white)](https://github.com/Sam-ai06/Grafos-Arboles-Aeropuerto)
+### 🔐 RSA SecureTxt
+Plataforma para el cifrado de archivos .txt con RSA.
+ 
+ [![Repo](https://img.shields.io/badge/-Repo-1F2937?style=flat-square&logo=github&logoColor=white)](https://github.com/alan-am/rsa-SecureTxt)
 
 </td>
 </tr>
@@ -50,12 +50,15 @@ Aplicación móvil inspirada en Yu-Gi-Oh!, desarrollada aplicando programación 
 </td>
 <td width="50%" valign="top">
 
-### ✨ Próximamente
-Nuevos proyectos en camino.
+### ✈️ Grafos y Árboles
+Proyecto académico de estructuras de datos para representar información aeroportuaria con grafos y árboles.
+
+[![Repo](https://img.shields.io/badge/-Repo-1F2937?style=flat-square&logo=github&logoColor=white)](https://github.com/Sam-ai06/Grafos-Arboles-Aeropuerto)
 
 </td>
 </tr>
 </table>
+
 ## Tech Stack & Tools
 
 **Programming Languages**  
