@@ -54,11 +54,29 @@ Fuera de la tecnología, me encontrarás disfrutando de un buen libro, el clima 
 
 ### Tecnologías del curso: Desarrollo de Aplicaciones Web y Móviles
 
-| Tecnología | Proyecto | Aplicación |
-|:--|:--|:--|
-| HTML, CSS y JavaScript | Museo Presley Norton | Estructura, estilos y comportamiento del sitio web |
-| GitHub Pages | Museo Presley Norton | Publicación del sitio web |
-## Tech Stack & Tools
+<div class="table-container">
+  <table class="tech-table">
+    <thead>
+      <tr>
+        <th>Tecnología</th>
+        <th>Proyecto</th>
+        <th>Aplicación</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td>HTML, CSS y JavaScript</td>
+        <td>Museo Presley Norton</td>
+        <td>Estructura, estilos y comportamiento del sitio web</td>
+      </tr>
+      <tr>
+        <td>GitHub Pages</td>
+        <td>Museo Presley Norton</td>
+        <td>Publicación del sitio web</td>
+      </tr>
+    </tbody>
+  </table>
+</div>
 
 **Programming Languages**  
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
