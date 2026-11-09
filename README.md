@@ -52,6 +52,12 @@ Fuera de la tecnología, me encontrarás disfrutando de un buen libro, el clima 
 </tr>
 </table>
 
+### Tecnologías del curso: Desarrollo de Aplicaciones Web y Móviles
+
+| Tecnología | Proyecto | Aplicación |
+|:--|:--|:--|
+| HTML, CSS y JavaScript | Museo Presley Norton | Estructura, estilos y comportamiento del sitio web |
+| GitHub Pages | Museo Presley Norton | Publicación del sitio web |
 ## Tech Stack & Tools
 
 **Programming Languages**  
